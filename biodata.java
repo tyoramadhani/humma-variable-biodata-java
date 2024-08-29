@@ -28,3 +28,5 @@ public class biodata {
         System.out.println("Saya WNI? : " + isWNI);
     }
 }
+
+// Tugas 1 humma materi variable dan tipe data
